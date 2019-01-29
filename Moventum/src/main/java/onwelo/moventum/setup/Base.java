@@ -16,7 +16,7 @@ public abstract class Base {
     private static final String CHROME_FILEPATH = "/drivers/chromedriver.exe";
     private static final String FIREFOX_FILEPATH = "/drivers/geckodriver.exe";
 
-    public static final String PLATFORM_URL = "http://172.17.15.20:8082/dev/";
+    public static final String PLATFORM_URL = "";
 
     public static WebDriver driver;
     public static WebDriverWait wait;
